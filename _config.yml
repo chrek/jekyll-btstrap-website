@@ -24,11 +24,11 @@ email: chrek@ymail.com
 
 description: >- # this means to ignore newlines until "baseurl:"
   This is a Blog-aware site powered by GitHub Pages, Jekyll and Bootstrap
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /jekyll-btstrap-website # the subpath of your site, e.g. /blog
+url: https://chrek.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
-production_url: https://chrek.github.io/jekyll-btstrap-website
-BASE_PATH: https://chrek.github.io/jekyll-btstrap-website
+#production_url: https://chrek.github.io/jekyll-btstrap-website
+#BASE_PATH: https://chrek.github.io/jekyll-btstrap-website
 
 #twitter_username: jekyllrb
 github_username:  chrek
