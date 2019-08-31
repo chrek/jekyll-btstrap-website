@@ -33,11 +33,22 @@ url: https://chrek.github.io # the base hostname & protocol for your site, e.g. 
 #twitter_username: jekyllrb
 github_username:  chrek
 
+# Bootstrap 4 settings
+sass:
+  sass_dir: _sass
+  style: compressed
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+# Jekyll-autoprefixer
+
+#gems:
+#  - jekyll-feed
+#  - jekyll-seo-tag
+#  - jekyll-autoprefixer
 
 # Exclude from processing.
 # The following items will not be processed, by default.
